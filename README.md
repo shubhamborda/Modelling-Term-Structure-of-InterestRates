@@ -17,7 +17,7 @@ This project explores interpolation techniques to estimate missing interest rate
 ## 🛠️ Tools
 
 - `pandas`, `numpy`, `matplotlib`
-- Interpolation via `numpy.polyfit` and `pandas.interpolate(method='polynomial')`
+- Interpolation via `pandas.interpolate(method='polynomial')`
 
 ## 📁 Contents
 
